@@ -1,1 +1,3 @@
-# Caesars-digital-wallet
+# Digital Wallet React App
+
+
